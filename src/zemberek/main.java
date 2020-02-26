@@ -9,7 +9,7 @@ public class main
     public static void main(String[] args) throws IOException
     {
         TurkishMorphology morphology = TurkishMorphology.createWithDefaults();
-        List<WordAnalysis> results = morphology.analyze("şimdilerde");
+        List<WordAnalysis> results = morphology.analyze("tutunamayanlar");
         results.forEach(s -> System.out.println(s.formatLong()));
     }
 }
