@@ -10,7 +10,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/zemberek-all-0.11.1.jar!/" />
+          <root url="jar://E:/KULTUR/JAR/antlr4-4.8-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/KULTUR/JAR/antlr4-runtime-4.8-1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +28,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/guava-21.0.jar!/" />
+          <root url="jar://E:/KULTUR/JAR/guava-23.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +37,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/antlr4-runtime-4.6.jar!/" />
+          <root url="jar://E:/KULTUR/JAR/jsoup-1.13.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -37,7 +46,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/args4j-2.0.25.jar!/" />
+          <root url="jar://E:/KULTUR/JAR/zemberek-tr-2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://E:/KULTUR/JAR/zemberek-all-0.11.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
